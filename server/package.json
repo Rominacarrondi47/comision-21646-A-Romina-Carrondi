@@ -18,7 +18,7 @@
     "express-validator": "^7.0.1",
     "helmet": "^7.0.0",
     "morgan": "^1.10.0",
-    "mysql2": "^3.6.1",
+    "mysql2": "^3.6.2",
     "sequelize": "^6.33.0",
     "validator": "^13.11.0"
   },
