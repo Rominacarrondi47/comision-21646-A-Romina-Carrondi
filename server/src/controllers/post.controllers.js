@@ -1,4 +1,4 @@
-import { PostModel } from "../models/Posts";
+import { PostModel } from "../models/Posts.js";
 
 //controller para mostrar la vista principal
 export const ctrlView = async (req, res) => {
